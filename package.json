@@ -1,16 +1,16 @@
 {
-"name": "aeufa",
-"theme": "aeufa",
-"version": "9.5.4",
-"description": "aeufa ทางเข้าเว็บไซต์คาสิโนเว็บตรง ไม่ผ่านเอเย่นต์ รับเงินเครดิตฟรี",
-"keywords": [
-"aeufa",
-"aeufa เครดิตฟรี",
-"aeufa ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/aeufa",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "aeufa",
+  "theme": "aeufa",
+  "version": "9.6.0",
+  "description": "aeufa ทางเข้าเว็บไซต์คาสิโนเว็บตรง ไม่ผ่านเอเย่นต์ รับเงินเครดิตฟรี",
+  "keywords": [
+    "aeufa",
+    "aeufa เครดิตฟรี",
+    "aeufa ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/aeufa",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
